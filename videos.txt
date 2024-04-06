@@ -1,0 +1,19 @@
+Video tutorial:
+https://youtu.be/r8zwDzlNSsA?si=uUO1tt_fzZoK_XPU
+
+
+GitHub: 
+https://github.com/candraKriswinarto/xe-currency
+
+
+Freecurrency API:
+https://app.freecurrencyapi.com/dashboard
+
+
+Pure CSS Gradient Background Animation:
+https://codepen.io/P1N2O/pen/pyBNzX
+
+
+Material Icons:
+https://codepen.io/P1N2O/pen/pyBNzX
+
