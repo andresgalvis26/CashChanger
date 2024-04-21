@@ -2,6 +2,9 @@
 
 CashChanger es una aplicación web desarrollada en React que te permite realizar conversiones de divisas en tiempo real. Con CashChanger, puedes visualizar y calcular fácilmente el valor de una cantidad específica en una moneda seleccionada respecto a otra.
 
+![image](https://github.com/andresgalvis26/CashChanger-React/assets/54415015/347f5860-327c-42ff-80a5-cb745ba38828)
+
+
 ## Características
 
 -   Conversión de divisas en tiempo real
