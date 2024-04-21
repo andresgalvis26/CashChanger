@@ -25,7 +25,7 @@ CashChanger es una aplicación web desarrollada en React que te permite realizar
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/cashchanger.git`
+1. Clona este repositorio: `git clone`
 2. Navega al directorio del proyecto: `cd cashchanger`
 3. Instala las dependencias: `npm install`
 
@@ -36,10 +36,6 @@ CashChanger es una aplicación web desarrollada en React que te permite realizar
 3. Selecciona las monedas de origen y destino
 4. Ingresa la cantidad que deseas convertir
 5. Observa el valor convertido en tiempo real
-
-## Capturas de Pantalla
-
-¡Aquí puedes agregar algunas capturas de pantalla de tu aplicación para mostrar su funcionalidad y diseño!
 
 ## Contribuciones
 
@@ -57,4 +53,4 @@ Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT).
 
 ---
 
-Desarrollado por Andrés Felipe Galvis(https://github.com/tu-usuario)
+Desarrollado por Andrés Felipe Galvis
